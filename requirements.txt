@@ -1,0 +1,14 @@
+# Core scientific and data science packages
+numpy
+pandas
+scikit-learn
+
+# Cheminformatics
+rdkit-pypi
+
+# Deep learning
+tensorflow
+
+# Visualization
+matplotlib
+seaborn
